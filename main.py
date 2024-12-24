@@ -1,1 +1,3 @@
-print('Hello Watson!')
+from models.Menu import Menu
+
+menu()
